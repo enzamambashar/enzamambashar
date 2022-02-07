@@ -1,5 +1,7 @@
 # On-Premises Microservice ARCHITECTURE #
 
+![alt text](https://github.com/enzamambashar/enzamambashar/blob/main/Task%203/diagram.png)
+
 *DMZ Zone:*
 
 This layer consists of consumers such as mobile apps, web applications and third-party services, as it is a hosted on-premises all DMZ zone traffic will be routed through web application firewall (f5).
